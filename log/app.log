@@ -1,0 +1,721 @@
+[2018-09-20T23:11:08.212] [INFO] app - start to monitor sending email
+[2018-09-20T23:11:08.214] [INFO] app - app start
+[2018-09-20T23:11:08.214] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-20T23:14:26.931] [INFO] app - start to monitor sending email
+[2018-09-20T23:14:26.933] [INFO] app - app start
+[2018-09-20T23:14:26.933] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-20T23:18:11.901] [INFO] app - start to monitor sending email
+[2018-09-20T23:18:11.903] [INFO] app - app start
+[2018-09-20T23:18:11.903] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-20T23:18:34.571] [INFO] app - start to monitor sending email
+[2018-09-20T23:18:34.572] [INFO] app - app start
+[2018-09-20T23:18:34.573] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-20T23:20:25.137] [INFO] app - start to monitor sending email
+[2018-09-20T23:20:25.138] [INFO] app - app start
+[2018-09-20T23:20:25.139] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-20T23:23:35.145] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/1B4BA_1537110442879/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/1B4BA_1537110442879/outputFolder/log' }
+[2018-09-20T23:23:35.150] [INFO] websocket - websocket has connected
+[2018-09-20T23:36:24.227] [INFO] app - start to monitor sending email
+[2018-09-20T23:36:24.229] [INFO] app - app start
+[2018-09-20T23:36:24.229] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-21T00:41:32.461] [ERROR] 状态监控 - { Error: ENOTDIR: not a directory, open '/Users/yaojun/robocode/robocode.sh/outputFolder/log'
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/robocode.sh/outputFolder/log' }
+[2018-09-21T00:41:32.473] [INFO] websocket - websocket has connected
+[2018-09-21T01:29:07.226] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T01:29:07.233] [INFO] websocket - websocket has connected
+[2018-09-21T01:33:24.710] [INFO] websocket - websocket has connected
+[2018-09-21T01:33:24.715] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T01:55:51.276] [ERROR] 状态监控 - { Error: ENOTDIR: not a directory, open '/Users/yaojun/robocode/roborumble.command/outputFolder/log'
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/roborumble.command/outputFolder/log' }
+[2018-09-21T01:55:51.282] [INFO] websocket - websocket has connected
+[2018-09-21T01:56:05.138] [INFO] websocket - websocket has connected
+[2018-09-21T01:56:05.140] [ERROR] 状态监控 - { Error: ENOTDIR: not a directory, open '/Users/yaojun/robocode/roborumble.command/outputFolder/log'
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/roborumble.command/outputFolder/log' }
+[2018-09-21T01:59:20.729] [INFO] app - start to monitor sending email
+[2018-09-21T01:59:20.730] [INFO] app - app start
+[2018-09-21T01:59:20.730] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-21T01:59:42.115] [INFO] websocket - websocket has connected
+[2018-09-21T01:59:42.124] [ERROR] 状态监控 - { Error: ENOTDIR: not a directory, open '/Users/yaojun/robocode/robocode.command/outputFolder/log'
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/robocode.command/outputFolder/log' }
+[2018-09-21T01:59:53.370] [INFO] websocket - websocket has connected
+[2018-09-21T01:59:53.372] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T01:59:58.703] [INFO] websocket - websocket has connected
+[2018-09-21T01:59:58.708] [ERROR] 状态监控 - { Error: ENOTDIR: not a directory, open '/Users/yaojun/robocode/roborumble.command/outputFolder/log'
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/roborumble.command/outputFolder/log' }
+[2018-09-21T02:00:49.273] [INFO] app - start to monitor sending email
+[2018-09-21T02:00:49.274] [INFO] app - app start
+[2018-09-21T02:00:49.274] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-21T02:00:56.774] [INFO] websocket - websocket has connected
+[2018-09-21T02:00:56.777] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:06:48.193] [INFO] app - start to monitor sending email
+[2018-09-21T02:06:48.195] [INFO] app - app start
+[2018-09-21T02:06:48.195] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-21T02:12:42.339] [INFO] websocket - websocket has connected
+[2018-09-21T02:12:42.357] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:15:25.510] [INFO] websocket - websocket has connected
+[2018-09-21T02:15:25.514] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:16:16.413] [INFO] websocket - websocket has connected
+[2018-09-21T02:16:16.414] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:24:09.818] [INFO] websocket - websocket has connected
+[2018-09-21T02:24:09.826] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:28:25.669] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:28:25.672] [INFO] websocket - websocket has connected
+[2018-09-21T02:31:41.599] [INFO] websocket - websocket has connected
+[2018-09-21T02:31:41.607] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:32:21.449] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:32:21.466] [INFO] websocket - websocket has connected
+[2018-09-21T02:38:12.912] [INFO] websocket - websocket has connected
+[2018-09-21T02:38:12.915] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:40:13.371] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:40:13.374] [INFO] websocket - websocket has connected
+[2018-09-21T02:40:42.617] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:40:42.621] [INFO] websocket - websocket has connected
+[2018-09-21T02:40:46.130] [ERROR] 状态监控 - TypeError: lines.split(...).reserve is not a function
+    at readLastLines.read.then.lines (/Users/yaojun/WebstormProjects/monitor/routes/statusMonitor.js:41:40)
+    at <anonymous>
+[2018-09-21T02:40:49.415] [ERROR] 状态监控 - { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yaojun/robocode/aaa_1537269553103/outputFolder/log' }
+[2018-09-21T02:40:51.098] [ERROR] 状态监控 - TypeError: lines.split(...).reserve is not a function
+    at readLastLines.read.then.lines (/Users/yaojun/WebstormProjects/monitor/routes/statusMonitor.js:41:40)
+    at <anonymous>
+[2018-09-21T02:42:03.893] [INFO] app - start to monitor sending email
+[2018-09-21T02:42:03.894] [INFO] app - app start
+[2018-09-21T02:42:03.895] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-21T02:42:35.301] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:42:55.964] [INFO] websocket - websocket has connected
+[2018-09-21T02:42:55.965] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:43:31.014] [INFO] websocket - websocket has connected
+[2018-09-21T02:43:31.017] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:43:43.432] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:45:20.047] [INFO] websocket - websocket has connected
+[2018-09-21T02:45:20.047] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:47:49.294] [INFO] websocket - websocket has connected
+[2018-09-21T02:47:49.297] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:47:57.519] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:47:57.537] [INFO] websocket - websocket has connected
+[2018-09-21T02:48:25.859] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:48:25.862] [INFO] websocket - websocket has connected
+[2018-09-21T02:48:45.505] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:49:28.355] [INFO] websocket - websocket has connected
+[2018-09-21T02:49:28.360] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:50:20.592] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:50:20.595] [INFO] websocket - websocket has connected
+[2018-09-21T02:50:40.105] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-21T02:50:40.122] [INFO] websocket - websocket has connected
+[2018-09-21T02:51:34.403] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T00:20:53.272] [INFO] app - start to monitor sending email
+[2018-09-22T00:20:53.274] [INFO] app - app start
+[2018-09-22T00:20:53.274] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:40:47.240] [INFO] app - start to monitor sending email
+[2018-09-22T01:40:47.242] [INFO] app - app start
+[2018-09-22T01:40:47.242] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:41:22.381] [INFO] app - start to monitor sending email
+[2018-09-22T01:41:22.383] [INFO] app - app start
+[2018-09-22T01:41:22.383] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:41:39.810] [INFO] app - start to monitor sending email
+[2018-09-22T01:41:39.812] [INFO] app - app start
+[2018-09-22T01:41:39.812] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:49:32.004] [INFO] app - start to monitor sending email
+[2018-09-22T01:49:32.007] [INFO] app - app start
+[2018-09-22T01:49:32.007] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:50:22.106] [INFO] app - start to monitor sending email
+[2018-09-22T01:50:22.108] [INFO] app - app start
+[2018-09-22T01:50:22.108] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T01:50:46.121] [INFO] app - start to monitor sending email
+[2018-09-22T01:50:46.122] [INFO] app - app start
+[2018-09-22T01:50:46.123] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T11:01:17.378] [INFO] app - start to monitor sending email
+[2018-09-22T11:01:17.379] [INFO] app - app start
+[2018-09-22T11:01:17.380] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T11:09:50.386] [INFO] app - start to monitor sending email
+[2018-09-22T11:09:50.388] [INFO] app - app start
+[2018-09-22T11:09:50.388] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T11:51:19.334] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T11:51:19.352] [INFO] websocket - websocket has connected
+[2018-09-22T11:52:28.660] [INFO] websocket - websocket has connected
+[2018-09-22T11:52:28.686] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T12:06:48.310] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T12:06:48.313] [INFO] websocket - websocket has connected
+[2018-09-22T12:23:16.731] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T12:23:16.734] [INFO] websocket - websocket has connected
+[2018-09-22T12:23:25.371] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T12:23:30.365] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:39:06.866] [INFO] app - start to monitor sending email
+[2018-09-22T14:39:06.868] [INFO] app - app start
+[2018-09-22T14:39:06.868] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T14:44:11.054] [INFO] websocket - websocket has connected
+[2018-09-22T14:44:11.069] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:46:05.445] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:46:19.354] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:51:42.918] [INFO] websocket - websocket has connected
+[2018-09-22T14:51:42.936] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:56:04.459] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T14:56:04.567] [INFO] websocket - websocket has connected
+[2018-09-22T15:08:48.652] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:08:48.669] [INFO] websocket - websocket has connected
+[2018-09-22T15:10:26.331] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:10:26.336] [INFO] websocket - websocket has connected
+[2018-09-22T15:13:11.241] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:13:11.260] [INFO] websocket - websocket has connected
+[2018-09-22T15:13:39.347] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:13:39.350] [INFO] websocket - websocket has connected
+[2018-09-22T15:15:44.551] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:15:44.566] [INFO] websocket - websocket has connected
+[2018-09-22T15:15:50.097] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:15:50.115] [INFO] websocket - websocket has connected
+[2018-09-22T15:36:54.550] [INFO] websocket - websocket has connected
+[2018-09-22T15:36:54.562] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:41:37.799] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:41:37.821] [INFO] websocket - websocket has connected
+[2018-09-22T15:41:41.166] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:41:41.170] [INFO] websocket - websocket has connected
+[2018-09-22T15:42:06.855] [INFO] websocket - websocket has connected
+[2018-09-22T15:42:06.884] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:42:34.419] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:42:34.441] [INFO] websocket - websocket has connected
+[2018-09-22T15:42:38.856] [INFO] websocket - websocket has connected
+[2018-09-22T15:42:38.884] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:42:40.935] [INFO] websocket - websocket has connected
+[2018-09-22T15:42:40.962] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:43:16.260] [INFO] websocket - websocket has connected
+[2018-09-22T15:43:16.274] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:43:56.990] [INFO] websocket - websocket has connected
+[2018-09-22T15:43:57.017] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T15:44:11.267] [INFO] websocket - websocket has connected
+[2018-09-22T15:44:11.294] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T16:03:34.069] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T16:03:34.072] [INFO] websocket - websocket has connected
+[2018-09-22T16:04:28.530] [INFO] websocket - websocket has connected
+[2018-09-22T16:04:28.560] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T16:20:40.165] [INFO] app - start to monitor sending email
+[2018-09-22T16:20:40.167] [INFO] app - app start
+[2018-09-22T16:20:40.167] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T16:20:44.148] [INFO] websocket - websocket has connected
+[2018-09-22T16:20:44.156] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T16:33:51.899] [INFO] app - start to monitor sending email
+[2018-09-22T16:33:51.901] [INFO] app - app start
+[2018-09-22T16:33:51.901] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T16:37:45.114] [INFO] app - start to monitor sending email
+[2018-09-22T16:37:45.116] [INFO] app - app start
+[2018-09-22T16:37:45.116] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T16:38:44.570] [INFO] app - start to monitor sending email
+[2018-09-22T16:38:44.572] [INFO] app - app start
+[2018-09-22T16:38:44.572] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T16:39:41.974] [INFO] app - start to monitor sending email
+[2018-09-22T16:39:41.976] [INFO] app - app start
+[2018-09-22T16:39:41.976] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:34:44.982] [INFO] app - start to monitor sending email
+[2018-09-22T17:34:44.983] [INFO] app - app start
+[2018-09-22T17:34:44.984] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:35:10.777] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:35:10.782] [INFO] websocket - websocket has connected
+[2018-09-22T17:36:44.728] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:36:44.731] [INFO] websocket - websocket has connected
+[2018-09-22T17:37:38.657] [INFO] app - start to monitor sending email
+[2018-09-22T17:37:38.659] [INFO] app - app start
+[2018-09-22T17:37:38.659] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:38:03.965] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:38:03.973] [INFO] websocket - websocket has connected
+[2018-09-22T17:46:02.335] [INFO] app - start to monitor sending email
+[2018-09-22T17:46:02.336] [INFO] app - app start
+[2018-09-22T17:46:02.336] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:47:06.367] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:47:06.374] [INFO] websocket - websocket has connected
+[2018-09-22T17:47:22.606] [INFO] app - start to monitor sending email
+[2018-09-22T17:47:22.608] [INFO] app - app start
+[2018-09-22T17:47:22.608] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:48:09.508] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:48:09.514] [INFO] websocket - websocket has connected
+[2018-09-22T17:56:57.886] [INFO] app - start to monitor sending email
+[2018-09-22T17:56:57.888] [INFO] app - app start
+[2018-09-22T17:56:57.888] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:57:25.108] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:57:25.112] [INFO] websocket - websocket has connected
+[2018-09-22T17:58:59.141] [INFO] app - start to monitor sending email
+[2018-09-22T17:58:59.142] [INFO] app - app start
+[2018-09-22T17:58:59.142] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T17:59:25.712] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T17:59:25.720] [INFO] websocket - websocket has connected
+[2018-09-22T18:30:06.770] [INFO] app - start to monitor sending email
+[2018-09-22T18:30:06.771] [INFO] app - app start
+[2018-09-22T18:30:06.771] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T18:50:51.033] [INFO] app - start to monitor sending email
+[2018-09-22T18:50:51.035] [INFO] app - app start
+[2018-09-22T18:50:51.035] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T18:54:24.017] [INFO] app - start to monitor sending email
+[2018-09-22T18:54:24.018] [INFO] app - app start
+[2018-09-22T18:54:24.019] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T18:54:52.870] [INFO] app - start to monitor sending email
+[2018-09-22T18:54:52.872] [INFO] app - app start
+[2018-09-22T18:54:52.872] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T19:04:15.172] [INFO] app - start to monitor sending email
+[2018-09-22T19:04:15.173] [INFO] app - app start
+[2018-09-22T19:04:15.174] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T19:19:43.320] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:19:43.331] [INFO] websocket - websocket has connected
+[2018-09-22T19:21:32.930] [INFO] websocket - websocket has connected
+[2018-09-22T19:21:32.936] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:25:39.968] [INFO] app - start to monitor sending email
+[2018-09-22T19:25:39.970] [INFO] app - app start
+[2018-09-22T19:25:39.970] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T19:25:43.570] [INFO] websocket - websocket has connected
+[2018-09-22T19:25:43.572] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:25:44.662] [INFO] websocket - websocket has connected
+[2018-09-22T19:25:44.666] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:26:06.135] [INFO] websocket - websocket has connected
+[2018-09-22T19:26:06.138] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:26:31.642] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T19:26:31.647] [INFO] websocket - websocket has connected
+[2018-09-22T19:56:46.748] [INFO] app - start to monitor sending email
+[2018-09-22T19:56:46.750] [INFO] app - app start
+[2018-09-22T19:56:46.750] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T19:57:00.436] [INFO] websocket - websocket has connected
+[2018-09-22T19:57:00.459] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:12:02.033] [INFO] app - start to monitor sending email
+[2018-09-22T20:12:02.035] [INFO] app - app start
+[2018-09-22T20:12:02.035] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:12:47.177] [INFO] websocket - websocket has connected
+[2018-09-22T20:13:05.878] [INFO] websocket - websocket has connected
+[2018-09-22T20:13:21.687] [INFO] websocket - websocket has connected
+[2018-09-22T20:13:31.834] [INFO] websocket - websocket has connected
+[2018-09-22T20:14:03.128] [INFO] websocket - websocket has connected
+[2018-09-22T20:14:28.579] [INFO] websocket - websocket has connected
+[2018-09-22T20:19:22.017] [INFO] websocket - websocket has connected
+[2018-09-22T20:19:24.011] [INFO] websocket - websocket has connected
+[2018-09-22T20:19:26.457] [INFO] websocket - websocket has connected
+[2018-09-22T20:19:43.719] [INFO] websocket - websocket has connected
+[2018-09-22T20:20:44.015] [INFO] websocket - websocket has connected
+[2018-09-22T20:23:32.066] [INFO] app - start to monitor sending email
+[2018-09-22T20:23:32.068] [INFO] app - app start
+[2018-09-22T20:23:32.068] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:23:59.603] [INFO] websocket - websocket has connected
+[2018-09-22T20:24:22.076] [INFO] app - start to monitor sending email
+[2018-09-22T20:24:22.078] [INFO] app - app start
+[2018-09-22T20:24:22.078] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:24:45.424] [INFO] app - start to monitor sending email
+[2018-09-22T20:24:45.426] [INFO] app - app start
+[2018-09-22T20:24:45.426] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:27:29.114] [INFO] websocket - websocket has connected
+[2018-09-22T20:28:36.820] [INFO] websocket - websocket has connected
+[2018-09-22T20:28:56.844] [INFO] app - start to monitor sending email
+[2018-09-22T20:28:56.846] [INFO] app - app start
+[2018-09-22T20:28:56.846] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:29:40.307] [INFO] app - start to monitor sending email
+[2018-09-22T20:29:40.309] [INFO] app - app start
+[2018-09-22T20:29:40.309] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:30:02.277] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:30:02.290] [INFO] websocket - websocket has connected
+[2018-09-22T20:30:45.304] [INFO] app - start to monitor sending email
+[2018-09-22T20:30:45.305] [INFO] app - app start
+[2018-09-22T20:30:45.306] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:31:07.718] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:31:07.729] [INFO] websocket - websocket has connected
+[2018-09-22T20:31:08.753] [INFO] websocket - websocket has connected
+[2018-09-22T20:31:08.756] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:31:09.687] [INFO] websocket - websocket has connected
+[2018-09-22T20:31:09.690] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:33:44.437] [INFO] app - start to monitor sending email
+[2018-09-22T20:33:44.439] [INFO] app - app start
+[2018-09-22T20:33:44.439] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:33:53.916] [INFO] websocket - websocket has connected
+[2018-09-22T20:33:53.940] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:33:54.727] [INFO] websocket - websocket has connected
+[2018-09-22T20:33:54.743] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:33:55.456] [INFO] websocket - websocket has connected
+[2018-09-22T20:33:55.471] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:33:56.349] [INFO] websocket - websocket has connected
+[2018-09-22T20:33:56.381] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:34:19.528] [INFO] app - start to monitor sending email
+[2018-09-22T20:34:19.530] [INFO] app - app start
+[2018-09-22T20:34:19.530] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:36:19.080] [INFO] app - start to monitor sending email
+[2018-09-22T20:36:19.082] [INFO] app - app start
+[2018-09-22T20:36:19.082] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:37:06.094] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:37:06.119] [INFO] websocket - websocket has connected
+[2018-09-22T20:37:52.904] [INFO] app - start to monitor sending email
+[2018-09-22T20:37:52.906] [INFO] app - app start
+[2018-09-22T20:37:52.906] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:37:56.601] [INFO] websocket - websocket has connected
+[2018-09-22T20:37:56.618] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:37:58.739] [INFO] websocket - websocket has connected
+[2018-09-22T20:37:58.749] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:38:21.356] [INFO] app - start to monitor sending email
+[2018-09-22T20:38:21.358] [INFO] app - app start
+[2018-09-22T20:38:21.358] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:38:22.819] [INFO] websocket - websocket has connected
+[2018-09-22T20:38:22.854] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:38:23.930] [INFO] websocket - websocket has connected
+[2018-09-22T20:38:23.947] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:38:25.955] [INFO] websocket - websocket has connected
+[2018-09-22T20:38:25.989] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:39:26.844] [INFO] app - start to monitor sending email
+[2018-09-22T20:39:26.845] [INFO] app - app start
+[2018-09-22T20:39:26.845] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:39:29.356] [INFO] websocket - websocket has connected
+[2018-09-22T20:39:29.389] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:39:30.212] [INFO] websocket - websocket has connected
+[2018-09-22T20:39:30.230] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:41:16.658] [INFO] app - start to monitor sending email
+[2018-09-22T20:41:16.660] [INFO] app - app start
+[2018-09-22T20:41:16.660] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:41:39.618] [INFO] app - start to monitor sending email
+[2018-09-22T20:41:39.620] [INFO] app - app start
+[2018-09-22T20:41:39.620] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:41:42.180] [INFO] websocket - websocket has connected
+[2018-09-22T20:41:43.060] [INFO] websocket - websocket has connected
+[2018-09-22T20:41:59.394] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:41:59.401] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:26.232] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:26.237] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:27.167] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:27.174] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:28.042] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:28.047] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:28.867] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:28.868] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:36.291] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:36.300] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:37.156] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:37.160] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:37.844] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:37.845] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:39.962] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:39.965] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:42:40.818] [INFO] websocket - websocket has connected
+[2018-09-22T20:42:40.821] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:44:58.724] [INFO] app - start to monitor sending email
+[2018-09-22T20:44:58.726] [INFO] app - app start
+[2018-09-22T20:44:58.726] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T20:50:23.087] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T20:50:29.327] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T21:03:25.391] [INFO] websocket - websocket has connected
+[2018-09-22T21:03:35.770] [INFO] app - start to monitor sending email
+[2018-09-22T21:03:35.771] [INFO] app - app start
+[2018-09-22T21:03:35.772] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T21:10:03.619] [INFO] websocket - websocket has connected
+[2018-09-22T21:10:20.344] [INFO] websocket - websocket has connected
+[2018-09-22T21:10:20.348] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T21:42:48.579] [INFO] app - start to monitor sending email
+[2018-09-22T21:42:48.581] [INFO] app - app start
+[2018-09-22T21:42:48.581] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T21:51:52.793] [INFO] app - start to monitor sending email
+[2018-09-22T21:51:52.794] [INFO] app - app start
+[2018-09-22T21:51:52.794] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T21:52:32.074] [INFO] app - start to monitor sending email
+[2018-09-22T21:52:32.076] [INFO] app - app start
+[2018-09-22T21:52:32.076] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T21:57:17.661] [INFO] app - start to monitor sending email
+[2018-09-22T21:57:17.662] [INFO] app - app start
+[2018-09-22T21:57:17.663] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T21:57:48.546] [INFO] app - start to monitor sending email
+[2018-09-22T21:57:48.548] [INFO] app - app start
+[2018-09-22T21:57:48.548] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T22:00:01.035] [INFO] app - start to monitor sending email
+[2018-09-22T22:00:01.037] [INFO] app - app start
+[2018-09-22T22:00:01.037] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T22:00:16.929] [INFO] websocket - websocket has connected
+[2018-09-22T22:01:44.865] [INFO] app - start to monitor sending email
+[2018-09-22T22:01:44.867] [INFO] app - app start
+[2018-09-22T22:01:44.867] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T22:14:16.706] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T22:14:16.780] [INFO] websocket - websocket has connected
+[2018-09-22T22:14:48.055] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T22:14:48.131] [INFO] websocket - websocket has connected
+[2018-09-22T22:15:18.542] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T22:15:18.616] [INFO] websocket - websocket has connected
+[2018-09-22T22:15:25.455] [INFO] websocket - websocket has connected
+[2018-09-22T22:15:25.457] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T22:15:27.671] [INFO] websocket - websocket has connected
+[2018-09-22T22:15:27.674] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T23:34:33.055] [INFO] app - start to monitor sending email
+[2018-09-22T23:34:33.057] [INFO] app - app start
+[2018-09-22T23:34:33.057] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T23:35:39.365] [INFO] websocket - websocket has connected
+[2018-09-22T23:35:46.041] [INFO] websocket - websocket has connected
+[2018-09-22T23:35:52.361] [INFO] websocket - websocket has connected
+[2018-09-22T23:39:09.830] [INFO] websocket - websocket has connected
+[2018-09-22T23:39:42.346] [INFO] websocket - websocket has connected
+[2018-09-22T23:48:50.411] [INFO] app - start to monitor sending email
+[2018-09-22T23:48:50.412] [INFO] app - app start
+[2018-09-22T23:48:50.413] [INFO] app - root path /Users/yaojun/WebstormProjects/monitor
+[2018-09-22T23:49:34.041] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-22T23:49:34.058] [INFO] websocket - websocket has connected
+[2018-09-23T00:07:56.367] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-23T00:07:56.378] [INFO] websocket - websocket has connected
+[2018-09-23T00:32:35.105] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-23T00:32:35.110] [INFO] websocket - websocket has connected
+[2018-09-23T00:35:04.640] [INFO] websocket - websocket has connected
+[2018-09-23T00:35:04.643] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-23T00:38:57.666] [INFO] websocket - websocket has connected
+[2018-09-23T00:38:57.669] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/WebstormProjects/monitor/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
