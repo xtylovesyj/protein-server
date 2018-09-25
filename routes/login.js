@@ -9,7 +9,11 @@ router.post('/', (req, res, next) => {
     const body = req.body;
     if (users.has(body.username) && body.password === users.get(body.username)) {
         req.session.user = body.username;
-        res.send(body.username);
+        res.send({
+            code: 200,
+            message: '',
+            data: body.username
+        });
     } else {
         res.send({
             code: 401,
