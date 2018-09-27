@@ -771,3 +771,168 @@
 [2018-09-24T10:08:32.457] [INFO] app - start to monitor sending email
 [2018-09-24T10:08:32.458] [INFO] app - app start
 [2018-09-24T10:08:32.459] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T18:52:43.935] [INFO] app - start to monitor sending email
+[2018-09-27T18:52:43.936] [INFO] app - app start
+[2018-09-27T18:52:43.936] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T18:55:16.852] [INFO] app - start to monitor sending email
+[2018-09-27T18:55:16.854] [INFO] app - app start
+[2018-09-27T18:55:16.854] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T18:55:22.148] [INFO] websocket - websocket has connected
+[2018-09-27T18:55:38.342] [INFO] websocket - websocket has connected
+[2018-09-27T18:55:38.350] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T18:56:20.004] [INFO] app - start to monitor sending email
+[2018-09-27T18:56:20.006] [INFO] app - app start
+[2018-09-27T18:56:20.006] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T18:56:38.728] [INFO] websocket - websocket has connected
+[2018-09-27T18:56:38.735] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T18:56:43.207] [INFO] websocket - websocket has connected
+[2018-09-27T18:56:43.211] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T19:30:10.802] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T19:30:10.814] [INFO] websocket - websocket has connected
+[2018-09-27T19:35:16.482] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T19:35:16.494] [INFO] websocket - websocket has connected
+[2018-09-27T19:35:18.800] [INFO] websocket - websocket has connected
+[2018-09-27T19:35:18.805] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T22:02:45.420] [INFO] app - start to monitor sending email
+[2018-09-27T22:02:45.421] [INFO] app - app start
+[2018-09-27T22:02:45.421] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T22:04:57.637] [INFO] app - start to monitor sending email
+[2018-09-27T22:04:57.639] [INFO] app - app start
+[2018-09-27T22:04:57.639] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-27T22:10:22.244] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-27T22:10:22.266] [INFO] websocket - websocket has connected
+[2018-09-27T23:58:48.230] [INFO] app - start to monitor sending email
+[2018-09-27T23:58:48.232] [INFO] app - app start
+[2018-09-27T23:58:48.232] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:01:57.112] [INFO] app - start to monitor sending email
+[2018-09-28T00:01:57.114] [INFO] app - app start
+[2018-09-28T00:01:57.114] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:03:23.526] [INFO] app - start to monitor sending email
+[2018-09-28T00:03:23.527] [INFO] app - app start
+[2018-09-28T00:03:23.528] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:05:39.009] [INFO] app - start to monitor sending email
+[2018-09-28T00:05:39.011] [INFO] app - app start
+[2018-09-28T00:05:39.011] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:08:58.970] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:08:58.977] [INFO] websocket - websocket has connected
+[2018-09-28T00:09:07.716] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:09:27.644] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:09:41.291] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:11:41.660] [INFO] app - start to monitor sending email
+[2018-09-28T00:11:41.662] [INFO] app - app start
+[2018-09-28T00:11:41.662] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:13:16.572] [INFO] websocket - websocket has connected
+[2018-09-28T00:13:22.727] [INFO] app - start to monitor sending email
+[2018-09-28T00:13:22.729] [INFO] app - app start
+[2018-09-28T00:13:22.729] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:13:31.188] [INFO] websocket - websocket has connected
+[2018-09-28T00:13:31.192] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:13:35.325] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:13:53.766] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:14:02.917] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:16:04.688] [INFO] app - start to monitor sending email
+[2018-09-28T00:16:04.690] [INFO] app - app start
+[2018-09-28T00:16:04.690] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:16:16.469] [INFO] websocket - websocket has connected
+[2018-09-28T00:16:16.475] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:16:46.176] [INFO] websocket - websocket has connected
+[2018-09-28T00:16:46.180] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:17:38.306] [INFO] websocket - websocket has connected
+[2018-09-28T00:17:38.309] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:18:01.846] [INFO] app - start to monitor sending email
+[2018-09-28T00:18:01.847] [INFO] app - app start
+[2018-09-28T00:18:01.847] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:18:05.141] [INFO] websocket - websocket has connected
+[2018-09-28T00:18:15.348] [INFO] websocket - websocket has connected
+[2018-09-28T00:18:15.357] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:18:29.636] [INFO] app - start to monitor sending email
+[2018-09-28T00:18:29.638] [INFO] app - app start
+[2018-09-28T00:18:29.638] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:18:30.644] [INFO] websocket - websocket has connected
+[2018-09-28T00:18:35.777] [INFO] websocket - websocket has connected
+[2018-09-28T00:18:35.795] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:20:00.638] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:22:09.796] [INFO] app - start to monitor sending email
+[2018-09-28T00:22:09.798] [INFO] app - app start
+[2018-09-28T00:22:09.798] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:22:18.673] [INFO] websocket - websocket has connected
+[2018-09-28T00:22:26.562] [INFO] websocket - websocket has connected
+[2018-09-28T00:22:26.570] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:24:14.605] [INFO] websocket - websocket has connected
+[2018-09-28T00:24:14.609] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:25:38.706] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:25:38.723] [INFO] websocket - websocket has connected
+[2018-09-28T00:26:35.740] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:26:35.742] [INFO] websocket - websocket has connected
+[2018-09-28T00:26:50.639] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:26:50.658] [INFO] websocket - websocket has connected
+[2018-09-28T00:28:05.730] [INFO] websocket - websocket has connected
+[2018-09-28T00:28:05.734] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:28:39.095] [INFO] app - start to monitor sending email
+[2018-09-28T00:28:39.098] [INFO] app - app start
+[2018-09-28T00:28:39.098] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:28:51.207] [INFO] app - start to monitor sending email
+[2018-09-28T00:28:51.209] [INFO] app - app start
+[2018-09-28T00:28:51.209] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-09-28T00:29:37.500] [INFO] websocket - websocket has connected
+[2018-09-28T00:29:47.420] [INFO] websocket - websocket has connected
+[2018-09-28T00:29:47.426] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-09-28T00:29:56.740] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>

@@ -12,6 +12,7 @@ var dataAnalysisRouter = require('./routes/dataAnalysis');
 var protein3DRouter = require('./routes/protein3D');
 var statusMonitorRouter = require('./routes/statusMonitor');
 var loginRouter = require('./routes/login');
+var statisticsRouter = require('./routes/statistics');
 var session = require('express-session');
 require('./services/websocket');
 var app = express();
@@ -35,7 +36,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 //config accross origin
 var allowCrossDomain = function(req, res, next) {
-    res.header('Access-Control-Allow-Origin', 'http://localhost:8080');
+    const origin = req.headers.origin;
+    res.header('Access-Control-Allow-Origin', origin);
     res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
     res.header('Access-Control-Allow-Headers', 'Content-Type');
     res.header('Access-Control-Allow-Credentials', true);
@@ -75,6 +77,7 @@ app.use('/dataAnalysis', dataAnalysisRouter);
 app.use('/protein3D', protein3DRouter);
 app.use('/statusMonitor', statusMonitorRouter);
 app.use('/login', loginRouter);
+app.use('/statistics', statisticsRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
