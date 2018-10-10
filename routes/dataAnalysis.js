@@ -7,7 +7,7 @@ router.get('/readFile', function(req, res, next) {
         if (err) {
             return console.error(err);
         }
-        // res.send(data.toString());
+        res.send(data.toString());
     });
 });
 
@@ -17,7 +17,7 @@ router.get('/readFile2', function(req, res, next) {
         if (err) {
             return console.error(err);
         }
-        // res.send(data.toString());
+        res.send(data.toString());
     });
 });
 

@@ -8,35 +8,64 @@ var fileManageService = require('../services/fileManageServie');
 const config = require('../config/config.base');
 var log4js = require('log4js');
 let invokeShell = require('../services/invokeShell');
+const Protein = require('../object/protein');
+const CacheData = require('../object/cacheData');
 const logger4j = log4js.getLogger('任务管理');
-var events = require('events');
-var eventEmitter = new events.EventEmitter();
-eventEmitter.on('excuteProtein', function(arg1) {
-    console.log(arg1);
-});
-var storage = multer.diskStorage({
-    destination: function(req, file, cb) {
-        cb(null, `${global.rootPath}/public/uploads`)
-    },
-    filename: function(req, file, cb) {
-        cb(null, file.originalname)
-    }
-});
-var upload = multer({ storage: storage });
-
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-    res.send(global.rootPath);
-});
-
-router.post('/profile', upload.any(), function(req, res, next) {
-    res.send('上传成功');
+const addWebsocketTask = require('../services/websocket');
+addWebsocketTask('taskManage', ws => {
+    let fileArray = [];
+    fs.readdir(config.protein_base_path, function(err, files) {
+        if (err) {
+            return console.error(err);
+        }
+        files.forEach(file => {
+            var stat = fs.lstatSync(`${config.protein_base_path}/${file}`);
+            const object = {
+                name: file,
+                isDirectory: stat.isDirectory(),
+                status: 0,
+                hasStatistics: false,
+                hasProtein: false,
+            };
+            if (object.isDirectory) {
+                let files = null;
+                try {
+                    files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
+                } catch (error) {
+                    // console.error(error.stack);
+                }
+                if (files) {
+                    let proteinNum = 0;
+                    files.forEach(name => {
+                        if (name === 'success') {
+                            object['status'] = 3;
+                        }
+                        if (name === 'decoy_Rmsd_Energy') {
+                            object.hasStatistics = true;
+                        }
+                        if (name === 'combo1.pdb' || name === 'combo2.pdb' || name === 'combo3.pdb' || name === 'combo4.pdb' || name === 'combo5.pdb') {
+                            proteinNum++;
+                        }
+                    });
+                    if (proteinNum > 0) {
+                        object.hasProtein = true;
+                    }
+                }
+            }
+            fileArray.push(object);
+        });
+        if (ws.readyState === 1) {
+            ws.send(JSON.stringify({
+                command: 'init',
+                data: fileArray
+            }));
+        }
+    });
 });
 
 router.post('/uploadInputfiles/:folderName(*)', multer({
     storage: multer.diskStorage({
         destination: function(req, file, cb) {
-            console.log(req.params.folderName);
             cb(null, `${config.protein_base_path}/${req.params.folderName}/inputFolder`)
         },
         filename: function(req, file, cb) {
@@ -44,18 +73,7 @@ router.post('/uploadInputfiles/:folderName(*)', multer({
         }
     })
 }).any(), function(req, res, next) {
-    console.log('上传成功');
     res.send('上传成功');
-});
-
-router.get('/readFile', function(req, res, next) {
-    // 异步读取
-    fs.readFile(global.rootPath + '/public/decoy_Rmsd_Energy_uniq', function(err, data) {
-        if (err) {
-            return console.error(err);
-        }
-        res.send(data.toString());
-    });
 });
 
 router.get('/readFolder', function(req, res, next) {
@@ -66,15 +84,42 @@ router.get('/readFolder', function(req, res, next) {
         }
         files.forEach(file => {
             var stat = fs.lstatSync(`${config.protein_base_path}/${file}`);
-            fileArray.push({
+            const object = {
                 name: file,
                 isDirectory: stat.isDirectory(),
                 status: 0,
-            });
+                hasStatistics: false,
+                hasProtein: false,
+            };
+            if (object.isDirectory) {
+                let files = null;
+                try {
+                    files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
+                } catch (error) {
+                    // console.error(error.stack);
+                }
+                if (files) {
+                    let proteinNum = 0;
+                    files.forEach(name => {
+                        if (name === 'success') {
+                            object['status'] = 3;
+                        }
+                        if (name === 'decoy_Rmsd_Energy') {
+                            object.hasStatistics = true;
+                        }
+                        if (name === 'combo1.pdb' || name === 'combo2.pdb' || name === 'combo3.pdb' || name === 'combo4.pdb' || name === 'combo5.pdb') {
+                            proteinNum++;
+                        }
+                    });
+                    if (proteinNum > 0) {
+                        object.hasProtein = true;
+                    }
+                }
+            }
+            fileArray.push(object);
         });
-        console.log(fileArray);
         res.send(fileArray);
-    })
+    });
 });
 
 
@@ -153,12 +198,11 @@ router.post("/childFolder", function(req, res, next) {
 router.post("/excuteTasks", function(req, res, next) {
     const proteins = req.body.proteins;
     let successProteins = [];
-
     (async function() {
         for (let i = 0; i < proteins.length; i++) {
-
-            eventEmitter.emit('excuteProtein', proteins[i]);
             let exp = new RegExp("End", "gi");
+            let protein = new Protein(proteins[i], `${config.protein_base_path}`, new Date());
+            CacheData.setCurrentRunProtein(protein);
             let result = await invokeShell(`${global.rootPath}/protein.sh`, ['-P', proteins[i]]);
             logger4j.info(result);
             console.log(result);

@@ -1,9 +1,8 @@
 var express = require('express');
 var router = express.Router();
-var multer = require('multer');
 var path = require('path');
 const fs = require('fs');
-var fsExtra = require('node-fs-extra')
+var fsExtra = require('node-fs-extra');
 var fileManageService = require('../services/fileManageServie');
 const config = require('../config/config.base');
 var log4js = require('log4js');
@@ -32,7 +31,7 @@ router.post('/delete', function(req, res, next) {
         fsExtra.remove(path, function(err) {
             if (err) {
                 console.error(err);
-                logger4j.info(err)
+                logger4j.info(err);
             } else {
                 deletedFiles.push(value);
             }

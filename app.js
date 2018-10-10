@@ -15,6 +15,10 @@ var loginRouter = require('./routes/login');
 var statisticsRouter = require('./routes/statistics');
 var session = require('express-session');
 require('./services/websocket');
+const CacheData = require('./object/cacheData');
+const config = require('./config/config.base');
+const Protein = require('./object/protein');
+
 var app = express();
 
 global.rootPath = __dirname;
@@ -53,14 +57,14 @@ log4js.configure({
 const logger4j = log4js.getLogger('app');
 
 // create a write stream (in append mode)
-var accessLogStream = fs.createWriteStream(path.join(__dirname, 'http-log/http.log'), { flags: 'a' })
-    // setup the logger
-app.use(morgan('combined', { stream: accessLogStream }))
+var accessLogStream = fs.createWriteStream(path.join(__dirname, 'http-log/http.log'), { flags: 'a' });
+// setup the logger
+app.use(morgan('combined', { stream: accessLogStream }));
 
 
 app.use(allowCrossDomain);
 app.use((req, res, next) => {
-    if (req.url === '/login' || req.session.user) {
+    if (req.url === '/login' || req.url.includes('/taskManage/uploadInputfiles/') || req.session.user) {
         next();
     } else {
         res.send({
@@ -83,6 +87,9 @@ app.use('/statistics', statisticsRouter);
 app.use(function(req, res, next) {
     next(createError(404));
 });
+
+CacheData.setCurrentRunProtein(new Protein('1B4BA_1537110442879', config.protein_base_path, new Date()));
+
 
 // error handler
 app.use(function(err, req, res, next) {

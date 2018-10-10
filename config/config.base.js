@@ -2,11 +2,12 @@ const env = {
     protein_base_path: '/Users/yaojun/robocode',
     users: [{
         name: 'yaojun',
-        pass: '123'
+        pass: '1'
     }, {
         name: 'xie',
-        pass: '456'
-    }]
-}
+        pass: 'xietengyu'
+    }],
+    emails: ['965072376@qq.com']
+};
 
 module.exports = env;
