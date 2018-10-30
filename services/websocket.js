@@ -1,7 +1,8 @@
+const config = require('../config/config.base');
 const WebSocket = require('ws');
 var log4js = require('log4js');
 const logger4j = log4js.getLogger('websocket');
-const wss = new WebSocket.Server({ port: 9090 });
+const wss = new WebSocket.Server({ port: config.websocket_port });
 const intervalMap = new Map();
 const subjects = new Map();
 const subjectNames = new Map();

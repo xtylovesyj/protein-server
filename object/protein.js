@@ -1,4 +1,5 @@
 const fs = require('fs');
+const config = require('../config/config.base');
 class Protein {
     constructor(name, path, startDate) {
         this.name = name;
@@ -10,9 +11,29 @@ class Protein {
         return this.path;
     }
 
-    getProteinProgressData() {
+    getLineData() {
         return new Promise((resolve, reject) => {
-            fs.readFile(`${this.path}/${this.name}/outputFolder/decoy_Rmsd_Energy`, function(err, data) {
+            fs.readFile(`${this.path}/${this.name}/outputFolder/${config.statistics.line}`, function(err, data) {
+                if (err) {
+                    reject({
+                        code: 500,
+                        message: err,
+                        data: ''
+                    });
+                    console.error(err);
+                } else {
+                    resolve({
+                        code: 200,
+                        message: '',
+                        data: data.toString()
+                    });
+                }
+            });
+        });
+    }
+    getScatterData() {
+        return new Promise((resolve, reject) => {
+            fs.readFile(`${this.path}/${this.name}/outputFolder/${config.statistics.scatter}`, function(err, data) {
                 if (err) {
                     reject({
                         code: 500,

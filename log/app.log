@@ -4597,3 +4597,628 @@
 [2018-10-10T22:53:32.393] [INFO] websocket - websocket has connected
 [2018-10-10T22:53:37.241] [INFO] websocket - websocket has connected
 [2018-10-10T22:53:40.641] [INFO] websocket - websocket has connected
+[2018-10-10T22:56:51.139] [INFO] websocket - websocket has connected
+[2018-10-10T22:57:33.779] [INFO] app - before send email from memory
+[2018-10-10T22:57:35.264] [INFO] app - successfully to send email from memory
+[2018-10-10T22:57:41.718] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T22:59:17.901] [INFO] app - start to monitor sending email
+[2018-10-10T22:59:17.902] [INFO] app - app start
+[2018-10-10T22:59:17.903] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T22:59:30.020] [INFO] websocket - websocket has connected
+[2018-10-10T22:59:33.053] [INFO] websocket - websocket has connected
+[2018-10-10T23:00:07.545] [INFO] app - start to monitor sending email
+[2018-10-10T23:00:07.547] [INFO] app - app start
+[2018-10-10T23:00:07.547] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:00:11.754] [INFO] websocket - websocket has connected
+[2018-10-10T23:00:15.221] [INFO] websocket - websocket has connected
+[2018-10-10T23:00:34.194] [INFO] websocket - websocket has connected
+[2018-10-10T23:05:07.837] [INFO] app - before send email from memory
+[2018-10-10T23:05:09.119] [INFO] app - successfully to send email from memory
+[2018-10-10T23:06:12.207] [INFO] app - start to monitor sending email
+[2018-10-10T23:06:12.209] [INFO] app - app start
+[2018-10-10T23:06:12.209] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:06:14.235] [INFO] websocket - websocket has connected
+[2018-10-10T23:06:17.371] [INFO] websocket - websocket has connected
+[2018-10-10T23:06:57.937] [INFO] websocket - websocket has connected
+[2018-10-10T23:07:05.318] [INFO] websocket - websocket has connected
+[2018-10-10T23:07:44.499] [INFO] app - start to monitor sending email
+[2018-10-10T23:07:44.501] [INFO] app - app start
+[2018-10-10T23:07:44.501] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:07:49.023] [INFO] websocket - websocket has connected
+[2018-10-10T23:07:52.808] [INFO] websocket - websocket has connected
+[2018-10-10T23:08:39.894] [INFO] app - start to monitor sending email
+[2018-10-10T23:08:39.895] [INFO] app - app start
+[2018-10-10T23:08:39.895] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:08:57.362] [INFO] app - start to monitor sending email
+[2018-10-10T23:08:57.364] [INFO] app - app start
+[2018-10-10T23:08:57.364] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:09:01.366] [INFO] websocket - websocket has connected
+[2018-10-10T23:09:05.424] [INFO] websocket - websocket has connected
+[2018-10-10T23:09:16.035] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:10:48.918] [INFO] app - start to monitor sending email
+[2018-10-10T23:10:48.920] [INFO] app - app start
+[2018-10-10T23:10:48.920] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:10:55.266] [INFO] websocket - websocket has connected
+[2018-10-10T23:10:58.436] [INFO] websocket - websocket has connected
+[2018-10-10T23:11:03.473] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:11:03.474] [INFO] 任务管理 - undefined
+[2018-10-10T23:11:51.824] [INFO] app - start to monitor sending email
+[2018-10-10T23:11:51.825] [INFO] app - app start
+[2018-10-10T23:11:51.825] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:11:54.445] [INFO] websocket - websocket has connected
+[2018-10-10T23:11:57.290] [INFO] websocket - websocket has connected
+[2018-10-10T23:12:00.703] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:12:00.704] [INFO] 任务管理 - undefined
+[2018-10-10T23:12:18.043] [INFO] app - start to monitor sending email
+[2018-10-10T23:12:18.045] [INFO] app - app start
+[2018-10-10T23:12:18.045] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:12:20.534] [INFO] websocket - websocket has connected
+[2018-10-10T23:12:23.664] [INFO] websocket - websocket has connected
+[2018-10-10T23:12:26.966] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:12:26.966] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:12:46.139] [INFO] app - start to monitor sending email
+[2018-10-10T23:12:46.140] [INFO] app - app start
+[2018-10-10T23:12:46.141] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:12:52.518] [INFO] websocket - websocket has connected
+[2018-10-10T23:12:55.977] [INFO] websocket - websocket has connected
+[2018-10-10T23:13:02.908] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:13:02.909] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:15:49.528] [INFO] websocket - websocket has connected
+[2018-10-10T23:15:59.010] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/aa_1537370938194/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:15:59.011] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/aa_1537370938194/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:16:07.633] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:16:07.633] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:16:23.533] [INFO] websocket - websocket has connected
+[2018-10-10T23:16:25.123] [INFO] websocket - websocket has connected
+[2018-10-10T23:17:46.390] [INFO] app - before send email from memory
+[2018-10-10T23:17:47.573] [INFO] app - successfully to send email from memory
+[2018-10-10T23:19:48.275] [INFO] app - start to monitor sending email
+[2018-10-10T23:19:48.277] [INFO] app - app start
+[2018-10-10T23:19:48.277] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:19:50.953] [INFO] websocket - websocket has connected
+[2018-10-10T23:19:55.332] [INFO] websocket - websocket has connected
+[2018-10-10T23:19:58.327] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:01.037] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:03.525] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:06.899] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:12.149] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:20:12.150] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:20:15.103] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:20:15.116] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:15.117] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:20:18.903] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:18.906] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:20:23.450] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:20:25.745] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:31.434] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/1B4BA_1537110442879/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:20:31.434] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/1B4BA_1537110442879/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:20:34.724] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:37.601] [INFO] websocket - websocket has connected
+[2018-10-10T23:20:40.361] [INFO] websocket - websocket has connected
+[2018-10-10T23:21:25.771] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:21:25.771] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:21:31.113] [INFO] websocket - websocket has connected
+[2018-10-10T23:21:31.115] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:21:35.673] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:21:37.922] [INFO] websocket - websocket has connected
+[2018-10-10T23:21:42.116] [INFO] websocket - websocket has connected
+[2018-10-10T23:21:42.119] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:21:47.093] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:21:52.098] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:21:57.098] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:02.100] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:07.106] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:12.107] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:17.110] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:22.116] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:24.781] [INFO] websocket - websocket has connected
+[2018-10-10T23:22:24.783] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:29.766] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:29.981] [INFO] websocket - websocket has connected
+[2018-10-10T23:22:38.535] [INFO] websocket - websocket has connected
+[2018-10-10T23:22:38.538] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:43.517] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:22:45.996] [INFO] websocket - websocket has connected
+[2018-10-10T23:24:48.549] [INFO] app - before send email from memory
+[2018-10-10T23:24:49.906] [INFO] app - successfully to send email from memory
+[2018-10-10T23:25:47.707] [INFO] websocket - websocket has connected
+[2018-10-10T23:28:04.735] [INFO] app - start to monitor sending email
+[2018-10-10T23:28:04.736] [INFO] app - app start
+[2018-10-10T23:28:04.737] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:28:09.644] [INFO] websocket - websocket has connected
+[2018-10-10T23:28:12.722] [INFO] websocket - websocket has connected
+[2018-10-10T23:28:20.380] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:28:20.380] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:29:44.922] [INFO] websocket - websocket has connected
+[2018-10-10T23:30:38.310] [INFO] app - start to monitor sending email
+[2018-10-10T23:30:38.312] [INFO] app - app start
+[2018-10-10T23:30:38.312] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:30:40.421] [INFO] websocket - websocket has connected
+[2018-10-10T23:30:43.888] [INFO] websocket - websocket has connected
+[2018-10-10T23:30:51.469] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:30:51.469] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:32:11.047] [INFO] app - start to monitor sending email
+[2018-10-10T23:32:11.049] [INFO] app - app start
+[2018-10-10T23:32:11.049] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:32:18.113] [INFO] websocket - websocket has connected
+[2018-10-10T23:32:23.541] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:32:23.541] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:34:19.374] [INFO] app - start to monitor sending email
+[2018-10-10T23:34:19.376] [INFO] app - app start
+[2018-10-10T23:34:19.376] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:34:27.019] [INFO] websocket - websocket has connected
+[2018-10-10T23:34:31.384] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:34:31.384] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 19: cd: /Users/yaojun/Compare_rosetta/ABCDEF_1539178157322/outputFolder: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 21: log: Is a directory
+
+[2018-10-10T23:34:44.961] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:34:44.972] [INFO] websocket - websocket has connected
+[2018-10-10T23:34:44.973] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:34:48.266] [INFO] websocket - websocket has connected
+[2018-10-10T23:34:48.267] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:34:52.877] [ERROR] 数据统计 - { code: 500,
+  message: 
+   { Error: ENOENT: no such file or directory, open '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy'
+     errno: -2,
+     code: 'ENOENT',
+     syscall: 'open',
+     path: '/Users/yaojun/robocode/ABCDEF_1539178157322/outputFolder/decoy_Rmsd_Energy' },
+  data: '' }
+[2018-10-10T23:34:56.135] [INFO] websocket - websocket has connected
+[2018-10-10T23:35:01.170] [INFO] websocket - websocket has connected
+[2018-10-10T23:35:01.171] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:01.175] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:06.156] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:10.368] [INFO] websocket - websocket has connected
+[2018-10-10T23:35:14.304] [INFO] websocket - websocket has connected
+[2018-10-10T23:35:14.306] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:19.296] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:24.301] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:29.309] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:35:34.316] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/.npminstall/read-last-lines/1.6.0/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-10T23:36:27.221] [INFO] app - start to monitor sending email
+[2018-10-10T23:36:27.223] [INFO] app - app start
+[2018-10-10T23:36:27.223] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-10T23:36:30.301] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:33.261] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:34.752] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:37.073] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:39.217] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:41.439] [INFO] websocket - websocket has connected
+[2018-10-10T23:36:43.678] [INFO] websocket - websocket has connected
+[2018-10-11T22:06:06.033] [INFO] app - start to monitor sending email
+[2018-10-11T22:06:06.036] [INFO] app - app start
+[2018-10-11T22:06:06.036] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-11T22:06:13.075] [INFO] websocket - websocket has connected
+[2018-10-11T22:08:31.505] [INFO] app - start to monitor sending email
+[2018-10-11T22:08:31.507] [INFO] app - app start
+[2018-10-11T22:08:31.507] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-11T22:08:39.612] [INFO] websocket - websocket has connected
+[2018-10-11T22:09:06.535] [INFO] websocket - websocket has connected
+[2018-10-11T22:09:13.673] [INFO] websocket - websocket has connected
+[2018-10-11T22:12:13.474] [INFO] websocket - websocket has connected
+[2018-10-11T22:12:23.031] [INFO] websocket - websocket has connected
+[2018-10-11T22:12:35.601] [INFO] websocket - websocket has connected
+[2018-10-11T22:12:42.005] [INFO] websocket - websocket has connected
+[2018-10-11T22:12:45.035] [INFO] websocket - websocket has connected
+[2018-10-11T22:13:03.134] [INFO] websocket - websocket has connected
+[2018-10-11T22:26:24.972] [INFO] websocket - websocket has connected
+[2018-10-11T22:26:33.434] [INFO] websocket - websocket has connected
+[2018-10-11T22:26:41.741] [INFO] websocket - websocket has connected
+[2018-10-11T22:30:22.941] [INFO] websocket - websocket has connected
+[2018-10-11T22:37:20.349] [INFO] websocket - websocket has connected
+[2018-10-11T22:37:24.111] [INFO] websocket - websocket has connected
+[2018-10-11T22:37:38.242] [INFO] websocket - websocket has connected
+[2018-10-11T22:37:46.970] [INFO] websocket - websocket has connected
+[2018-10-11T22:39:47.489] [INFO] websocket - websocket has connected
+[2018-10-11T22:39:51.438] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:14.000] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:19.455] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:19.465] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-11T23:14:29.143] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:46.743] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:51.636] [INFO] websocket - websocket has connected
+[2018-10-11T23:14:51.643] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-11T23:15:00.133] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:07.600] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:07.609] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-11T23:15:09.646] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:11.025] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:11.032] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-11T23:15:12.587] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:18.897] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:25.706] [INFO] websocket - websocket has connected
+[2018-10-11T23:15:34.395] [INFO] websocket - websocket has connected
+[2018-10-13T12:11:56.876] [INFO] app - start to monitor sending email
+[2018-10-13T12:11:56.878] [INFO] app - app start
+[2018-10-13T12:11:56.878] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-13T12:12:53.487] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:15.699] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:16.951] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:16.959] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-13T12:14:20.130] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:22.120] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:28.378] [INFO] websocket - websocket has connected
+[2018-10-13T12:14:31.557] [INFO] websocket - websocket has connected
+[2018-10-14T16:04:30.225] [INFO] app - start to monitor sending email
+[2018-10-14T16:04:30.227] [INFO] app - app start
+[2018-10-14T16:04:30.227] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-14T16:05:05.869] [INFO] websocket - websocket has connected
+[2018-10-14T16:05:09.024] [INFO] websocket - websocket has connected
+[2018-10-14T16:05:09.032] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-14T16:05:10.565] [INFO] websocket - websocket has connected
+[2018-10-14T16:05:11.652] [INFO] websocket - websocket has connected
+[2018-10-14T16:05:11.658] [ERROR] 状态监控 - Error: file does not exist
+    at /Users/yaojun/gitRepository/protein-server/node_modules/read-last-lines/dist/index.js:1:410
+    at <anonymous>
+[2018-10-14T16:05:20.411] [INFO] websocket - websocket has connected
+[2018-10-14T16:37:15.876] [INFO] websocket - websocket has connected
+[2018-10-14T16:37:19.246] [INFO] websocket - websocket has connected
+[2018-10-14T16:37:30.643] [INFO] websocket - websocket has connected
+[2018-10-14T16:37:33.694] [INFO] websocket - websocket has connected
+[2018-10-14T16:37:37.247] [INFO] websocket - websocket has connected
+[2018-10-14T16:38:12.549] [INFO] websocket - websocket has connected
+[2018-10-14T16:38:14.721] [INFO] websocket - websocket has connected
+[2018-10-14T16:38:19.783] [INFO] websocket - websocket has connected
+[2018-10-14T16:38:26.740] [INFO] websocket - websocket has connected
+[2018-10-14T21:45:42.266] [INFO] app - before send email from cpu
+[2018-10-14T21:45:43.646] [INFO] app - successfully to send email from cpu
+[2018-10-14T22:39:17.067] [INFO] app - before send email from cpu
+[2018-10-14T22:39:18.402] [INFO] app - successfully to send email from cpu
+[2018-10-14T22:55:26.012] [INFO] app - before send email from cpu
+[2018-10-14T22:55:27.186] [INFO] app - successfully to send email from cpu
+[2018-10-21T16:54:27.259] [INFO] app - start to monitor sending email
+[2018-10-21T16:54:27.261] [INFO] app - app start
+[2018-10-21T16:54:27.261] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-21T16:56:14.446] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:36.568] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:39.609] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:41.604] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:44.077] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:46.880] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:49.498] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:56.387] [INFO] websocket - websocket has connected
+[2018-10-21T16:56:59.871] [INFO] websocket - websocket has connected
+[2018-10-21T16:57:07.855] [INFO] websocket - websocket has connected
+[2018-10-21T16:57:18.437] [INFO] websocket - websocket has connected
+[2018-10-21T16:57:23.102] [INFO] websocket - websocket has connected
+[2018-10-21T16:57:26.140] [INFO] websocket - websocket has connected
+[2018-10-21T16:57:32.787] [INFO] websocket - websocket has connected
+[2018-10-21T16:59:27.812] [INFO] app - before send email from memory
+[2018-10-21T16:59:29.659] [INFO] app - successfully to send email from memory
+[2018-10-29T21:54:20.165] [INFO] app - start to monitor sending email
+[2018-10-29T21:54:20.167] [INFO] app - app start
+[2018-10-29T21:54:20.167] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-29T21:54:47.873] [INFO] websocket - websocket has connected
+[2018-10-29T21:54:49.310] [INFO] websocket - websocket has connected
+[2018-10-29T21:54:52.547] [INFO] websocket - websocket has connected
+[2018-10-29T22:07:38.587] [INFO] app - start to monitor sending email
+[2018-10-29T22:07:38.589] [INFO] app - app start
+[2018-10-29T22:07:38.589] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-29T22:07:41.277] [INFO] websocket - websocket has connected
+[2018-10-29T22:07:45.057] [INFO] websocket - websocket has connected
+[2018-10-29T22:07:46.300] [INFO] websocket - websocket has connected
+[2018-10-29T22:07:58.246] [INFO] app - start to monitor sending email
+[2018-10-29T22:07:58.248] [INFO] app - app start
+[2018-10-29T22:07:58.249] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-29T22:07:59.372] [INFO] websocket - websocket has connected
+[2018-10-29T22:08:02.364] [INFO] websocket - websocket has connected
+[2018-10-29T22:08:04.309] [INFO] websocket - websocket has connected
+[2018-10-29T22:09:51.598] [INFO] websocket - websocket has connected
+[2018-10-29T22:10:10.160] [INFO] websocket - websocket has connected
+[2018-10-29T22:11:14.993] [INFO] websocket - websocket has connected
+[2018-10-29T22:12:16.103] [INFO] websocket - websocket has connected
+[2018-10-29T22:39:27.653] [INFO] websocket - websocket has connected
+[2018-10-29T22:45:15.959] [INFO] websocket - websocket has connected
+[2018-10-29T22:46:09.575] [INFO] websocket - websocket has connected
+[2018-10-29T22:47:38.494] [INFO] websocket - websocket has connected
+[2018-10-29T22:48:03.737] [INFO] websocket - websocket has connected
+[2018-10-29T22:49:22.616] [INFO] websocket - websocket has connected
+[2018-10-29T22:50:18.426] [INFO] websocket - websocket has connected
+[2018-10-29T22:50:26.709] [INFO] websocket - websocket has connected
+[2018-10-29T22:50:28.870] [INFO] websocket - websocket has connected
+[2018-10-29T22:52:00.276] [INFO] websocket - websocket has connected
+[2018-10-29T22:52:07.026] [INFO] websocket - websocket has connected
+[2018-10-29T22:52:58.588] [INFO] websocket - websocket has connected
+[2018-10-29T22:53:15.243] [INFO] websocket - websocket has connected
+[2018-10-29T22:53:46.711] [INFO] websocket - websocket has connected
+[2018-10-29T22:54:24.871] [INFO] websocket - websocket has connected
+[2018-10-29T22:54:49.171] [INFO] websocket - websocket has connected
+[2018-10-29T22:55:36.681] [INFO] websocket - websocket has connected
+[2018-10-29T22:57:55.344] [INFO] websocket - websocket has connected
+[2018-10-29T22:58:33.677] [INFO] websocket - websocket has connected
+[2018-10-29T23:02:49.890] [INFO] websocket - websocket has connected
+[2018-10-29T23:07:16.522] [INFO] websocket - websocket has connected
+[2018-10-29T23:08:01.427] [INFO] websocket - websocket has connected
+[2018-10-29T23:08:39.997] [INFO] websocket - websocket has connected
+[2018-10-29T23:11:08.735] [INFO] websocket - websocket has connected
+[2018-10-29T23:14:00.188] [INFO] websocket - websocket has connected
+[2018-10-29T23:14:22.975] [INFO] websocket - websocket has connected
+[2018-10-29T23:14:26.900] [INFO] websocket - websocket has connected
+[2018-10-29T23:15:32.699] [INFO] websocket - websocket has connected
+[2018-10-29T23:30:42.485] [INFO] websocket - websocket has connected
+[2018-10-30T20:27:42.090] [INFO] app - start to monitor sending email
+[2018-10-30T20:27:42.092] [INFO] app - app start
+[2018-10-30T20:27:42.092] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T20:34:58.865] [INFO] websocket - websocket has connected
+[2018-10-30T20:35:04.982] [INFO] websocket - websocket has connected
+[2018-10-30T20:36:27.314] [INFO] websocket - websocket has connected
+[2018-10-30T20:37:25.636] [INFO] app - start to monitor sending email
+[2018-10-30T20:37:25.638] [INFO] app - app start
+[2018-10-30T20:37:25.638] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T20:37:32.006] [INFO] websocket - websocket has connected
+[2018-10-30T20:59:03.189] [INFO] websocket - websocket has connected
+[2018-10-30T20:59:09.257] [INFO] websocket - websocket has connected
+[2018-10-30T20:59:14.842] [INFO] websocket - websocket has connected
+[2018-10-30T20:59:53.161] [INFO] websocket - websocket has connected
+[2018-10-30T21:02:34.367] [INFO] websocket - websocket has connected
+[2018-10-30T21:02:39.300] [INFO] websocket - websocket has connected
+[2018-10-30T21:02:43.271] [INFO] websocket - websocket has connected
+[2018-10-30T21:05:10.424] [INFO] websocket - websocket has connected
+[2018-10-30T21:05:12.984] [INFO] websocket - websocket has connected
+[2018-10-30T21:07:58.918] [INFO] app - start to monitor sending email
+[2018-10-30T21:07:58.920] [INFO] app - app start
+[2018-10-30T21:07:58.920] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:08:06.273] [INFO] websocket - websocket has connected
+[2018-10-30T21:09:34.029] [INFO] websocket - websocket has connected
+[2018-10-30T21:14:02.955] [INFO] app - start to monitor sending email
+[2018-10-30T21:14:02.956] [INFO] app - app start
+[2018-10-30T21:14:02.956] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:15:54.792] [INFO] app - start to monitor sending email
+[2018-10-30T21:15:54.794] [INFO] app - app start
+[2018-10-30T21:15:54.795] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:16:46.629] [INFO] app - start to monitor sending email
+[2018-10-30T21:16:46.630] [INFO] app - app start
+[2018-10-30T21:16:46.630] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:23:27.771] [INFO] app - start to monitor sending email
+[2018-10-30T21:23:27.772] [INFO] app - app start
+[2018-10-30T21:23:27.773] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:23:56.643] [INFO] app - start to monitor sending email
+[2018-10-30T21:23:56.644] [INFO] app - app start
+[2018-10-30T21:23:56.645] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:29:32.897] [INFO] websocket - websocket has connected
+[2018-10-30T21:29:42.181] [INFO] websocket - websocket has connected
+[2018-10-30T21:29:44.126] [INFO] websocket - websocket has connected
+[2018-10-30T21:29:52.091] [INFO] websocket - websocket has connected
+[2018-10-30T21:30:56.519] [INFO] websocket - websocket has connected
+[2018-10-30T21:31:07.647] [INFO] websocket - websocket has connected
+[2018-10-30T21:31:31.294] [INFO] websocket - websocket has connected
+[2018-10-30T21:31:46.275] [INFO] websocket - websocket has connected
+[2018-10-30T21:32:36.499] [INFO] websocket - websocket has connected
+[2018-10-30T21:32:41.496] [INFO] websocket - websocket has connected
+[2018-10-30T21:32:50.374] [INFO] websocket - websocket has connected
+[2018-10-30T21:33:08.711] [INFO] websocket - websocket has connected
+[2018-10-30T21:34:52.680] [INFO] websocket - websocket has connected
+[2018-10-30T21:35:16.662] [INFO] websocket - websocket has connected
+[2018-10-30T21:35:42.877] [INFO] websocket - websocket has connected
+[2018-10-30T21:38:09.507] [INFO] websocket - websocket has connected
+[2018-10-30T21:38:16.264] [INFO] websocket - websocket has connected
+[2018-10-30T21:38:20.951] [INFO] websocket - websocket has connected
+[2018-10-30T21:38:22.312] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:24.708] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:27.908] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:31.226] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:46.196] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:46.874] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:47.571] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:49.937] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:51.525] [INFO] websocket - websocket has connected
+[2018-10-30T21:39:53.820] [INFO] websocket - websocket has connected
+[2018-10-30T21:48:31.130] [INFO] app - start to monitor sending email
+[2018-10-30T21:48:31.132] [INFO] app - app start
+[2018-10-30T21:48:31.132] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-10-30T21:49:51.441] [INFO] app - start to monitor sending email
+[2018-10-30T21:49:51.443] [INFO] app - app start
+[2018-10-30T21:49:51.443] [INFO] app - root path /Users/yaojun/gitRepository/protein-server

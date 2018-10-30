@@ -31,6 +31,9 @@ addWebsocketTask('taskManage', ws => {
                 let files = null;
                 try {
                     files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
+                    if (file === CacheData.getCurrentRunProtein().getName()) {
+                        object.status = 1;
+                    }
                 } catch (error) {
                     // console.error(error.stack);
                 }
@@ -40,7 +43,7 @@ addWebsocketTask('taskManage', ws => {
                         if (name === 'success') {
                             object['status'] = 3;
                         }
-                        if (name === 'decoy_Rmsd_Energy') {
+                        if (name === 'accept_rmsd_energy.csv' || name === 'average_rmsd_energy.csv') {
                             object.hasStatistics = true;
                         }
                         if (name === 'combo1.pdb' || name === 'combo2.pdb' || name === 'combo3.pdb' || name === 'combo4.pdb' || name === 'combo5.pdb') {
@@ -95,6 +98,9 @@ router.get('/readFolder', function(req, res, next) {
                 let files = null;
                 try {
                     files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
+                    if (file === CacheData.getCurrentRunProtein().getName()) {
+                        object.status = 1;
+                    }
                 } catch (error) {
                     // console.error(error.stack);
                 }
@@ -203,9 +209,13 @@ router.post("/excuteTasks", function(req, res, next) {
             let exp = new RegExp("End", "gi");
             let protein = new Protein(proteins[i], `${config.protein_base_path}`, new Date());
             CacheData.setCurrentRunProtein(protein);
-            let result = await invokeShell(`${global.rootPath}/protein.sh`, ['-P', proteins[i]]);
+            let result = '';
+            try {
+                result = await invokeShell(`${global.rootPath}/protein.sh`, ['-P', proteins[i], '-N', config.protein_base_path]);
+            } catch (error) {
+                result = error;
+            }
             logger4j.info(result);
-            console.log(result);
             if (exp.test(result)) {
                 successProteins.push(proteins[i]);
             }

@@ -49,9 +49,15 @@ router.post("/childFolder", function(req, res, next) {
         inputFiles: [],
         outputFiles: []
     };
-    fileArray.inputFiles = fs.readdirSync(`${config.protein_base_path}/${fileName}/inputFolder`);
-    fileArray.outputFiles = fs.readdirSync(`${config.protein_base_path}/${fileName}/outputFolder`);
-    res.send(fileArray);
+    try {
+        fileArray.inputFiles = fs.readdirSync(`${config.protein_base_path}/${fileName}/inputFolder`);
+        fileArray.outputFiles = fs.readdirSync(`${config.protein_base_path}/${fileName}/outputFolder`);
+        res.send(fileArray);
+    } catch (error) {
+        console.log(error);
+        res.send(fileArray);
+    }
+
 });
 
 router.get('/downloads/:file(*)', function(req, res, next) {
