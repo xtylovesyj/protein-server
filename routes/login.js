@@ -22,4 +22,11 @@ router.post('/', (req, res, next) => {
         });
     }
 });
+router.get('/getServers', (req, res, next) => {
+    res.send({
+        code: 200,
+        message: '',
+        data: config.servers
+    });
+});
 module.exports = router;

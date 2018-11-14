@@ -10,6 +10,16 @@ logger4j.info('init websocket');
 wss.on('connection', function connection(ws) {
     ws.on('message', function incoming(message) {
         message = JSON.parse(message);
+        if (message['user']) {
+            ws['user'] = message['user'];
+        }
+        if (message['params']) {
+            ws['_params_'] = message['params'];
+        } else if (ws['_params_']) {
+            ws['_params_'] = Object.assign(ws['_params_'], message);
+        } else {
+            ws['_params_'] = message;
+        }
         const command = message['command'];
         if (command && !subjectNames.has(ws)) {
             subjectNames.set(ws, command);
@@ -21,7 +31,6 @@ wss.on('connection', function connection(ws) {
                 });
             }
         });
-        logger4j.info(`websocket has connected`);
     });
     let interval = setInterval(() => {
         if (ws.readyState === 3) {

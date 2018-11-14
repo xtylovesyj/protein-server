@@ -3,10 +3,10 @@ var router = express.Router();
 var log4js = require('log4js');
 const config = require('../config/config.base');
 const logger4j = log4js.getLogger('状态监控');
-const CacheData = require('../object/cacheData');
 const readLastLines = require('read-last-lines');
 const systemBaseInfo = require('../services/systemBaseInfo');
 const addWebsocketTask = require('../services/websocket');
+const Protein = require('../object/protein');
 addWebsocketTask('statusMonitor', ws => {
     systemBaseInfo.getDisk().then(data => {
         if (ws.readyState === 1) {
@@ -22,34 +22,32 @@ addWebsocketTask('statusMonitor', ws => {
     });
 });
 addWebsocketTask('statusMonitor', ws => {
-    const currentProtein = CacheData.getCurrentRunProtein();
-    if (ws.readyState === 1) {
-        const sendData = {
-            name: currentProtein.getName(),
-            startTime: currentProtein.getStartDate(),
-            predictFinishTime: currentProtein.getCompletedTime(),
-            iterationNum: currentProtein.getIterationNum(),
-            finishedPercent: currentProtein.getFinishedPercent(),
-        };
-        ws.send(JSON.stringify({
-            command: 'currentTask',
-            data: sendData
-        }));
-    }
+    new Protein(ws['_params_']['folderName']).getCurrentStatusInfos().then(data => {
+        if (ws.readyState === 1) {
+            ws.send(JSON.stringify({
+                command: 'currentTask',
+                data: data
+            }));
+        }
+    }).catch(err => {
+        console.error(err);
+    });
 });
 addWebsocketTask('statusMonitor', ws => {
     if (ws.readyState === 1) {
         let proteinLog = null;
         let appLog = null;
+        let lineNum = 100;
         (async function() {
             try {
-                proteinLog = await readLastLines.read(`${config.protein_base_path}/${CacheData.getCurrentRunProtein().getName()}/outputFolder/log`, 100);
+                lineNum = ws['_params_']['lineNum'] || 100;
+                proteinLog = await new Protein(ws['_params_']['folderName']).getLog(lineNum);
             } catch (error) {
                 logger4j.error(error.stack);
-                console.error(`${config.protein_base_path}/${CacheData.getCurrentRunProtein().getName()}/outputFolder/log ${error}`);
+                console.error(`${config.protein_base_path}/${ws['_params_']['folderName']}/outputFolder/log ${error}`);
             }
             try {
-                appLog = await readLastLines.read(global.rootPath + '/log/app.log', 100);
+                appLog = await readLastLines.read(global.rootPath + '/log/app.log', lineNum);
             } catch (error) {
                 logger4j.error(error.stack);
                 console.error(`${global.rootPath}/log/app.log ${error}`);
@@ -68,28 +66,26 @@ addWebsocketTask('statusMonitor', ws => {
     }
 });
 router.get('/readLog', function(req, res, next) {
-    const folderName = req.query.folderName ? req.query.folderName : CacheData.getCurrentRunProtein().getName();
-    readLastLines.read(`${config.protein_base_path}/${folderName}/outputFolder/log`, req.query.lineNum)
-        .then(lines => {
-            res.send({
-                code: 200,
-                message: '',
-                data: lines
-            });
-        }).catch(error => {
-            logger4j.error(error.stack);
-            console.error(error);
-            res.send({
-                code: 500,
-                message: error.stack,
-                data: ''
-            });
+    const folderName = req.query.folderName;
+    new Protein(folderName).getLog(req.query.lineNum).then(data => {
+        res.send({
+            code: 200,
+            message: '',
+            data: data
         });
+    }).catch(err => {
+        res.send({
+            code: 500,
+            message: err.stack,
+            data: ''
+        });
+    });
 });
 
 router.get('/readAppLog', function(req, res, next) {
     readLastLines.read(global.rootPath + '/log/app.log', req.query.lineNum)
         .then(lines => {
+            console.log('lines', lines);
             res.send({
                 code: 200,
                 message: '',
@@ -107,17 +103,18 @@ router.get('/readAppLog', function(req, res, next) {
 });
 
 router.get('/proteinStatus', (req, res, next) => {
-    const currentProtein = CacheData.getCurrentRunProtein();
-    let sendData = {
-        name: currentProtein.getName(),
-        startTime: currentProtein.getStartDate(),
-        predictFinishTime: currentProtein.getCompletedTime(),
-        iterationNum: currentProtein.getIterationNum(),
-        finishedPercent: currentProtein.getFinishedPercent(),
-    };
-    res.send(sendData);
+    new Protein(req.query.folderName).getCurrentStatusInfos().then(data => {
+        res.send({
+            code: 200,
+            message: '',
+            data: data
+        });
+    }).catch(err => {
+        res.send({
+            code: 500,
+            message: err.stack,
+            data: ''
+        });
+    });
 });
-
-
-
 module.exports = router;

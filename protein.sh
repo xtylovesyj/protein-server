@@ -19,8 +19,17 @@ do
         esac
 done
 
-cd ~/$PROTEIN_ROOT_PATH/$PROTEIN_NAME/outputFolder
+cd $PROTEIN_ROOT_PATH/$PROTEIN_NAME/outputFolder
 #rm *
 ~/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease @../inputFolder/flags >log
-#~/spicker
+~/pulchra/pulchra.pl combo1.pdb
+mv pul_center.pdb combo1_pul.pdb
+~/pulchra/pulchra.pl combo2.pdb
+mv pul_center.pdb combo2_pul.pdb
+~/pulchra/pulchra.pl combo3.pdb
+mv pul_center.pdb combo3_pul.pdb
+~/pulchra/pulchra.pl combo4.pdb
+mv pul_center.pdb combo4_pul.pdb
+~/pulchra/pulchra.pl combo5.pdb
+mv pul_center.pdb combo5_pul.pdb
 echo "End"

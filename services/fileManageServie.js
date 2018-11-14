@@ -31,6 +31,25 @@ const fileManage = {
         return promise;
     },
     compressChildFile(parentFolder, folderNames) {
+        if (folderNames.length === 1) {
+            const item = folderNames[0];
+            const name = item.value;
+            let path = '';
+            let folderType = '';
+            if (item.folder === 'input') {
+                folderType = 'inputFolder';
+                path = `${config.protein_base_path}/${parentFolder}/inputFolder/${name}`;
+            } else {
+                folderType = 'outputFolder';
+                path = `${config.protein_base_path}/${parentFolder}/outputFolder/${name}`;
+            }
+            var stat = fs.lstatSync(path);
+            if (!stat.isDirectory()) {
+                return new Promise(resolve => {
+                    resolve({ folderType: folderType, fileName: name, parentFolder: parentFolder });
+                });
+            }
+        }
         const temporyName = new Date().getTime();
         var output = fs.createWriteStream(`${global.rootPath}/public/tempory/${temporyName}.zip`);
         var archive = archiver('zip', {

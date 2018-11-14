@@ -1,10 +1,17 @@
 const fs = require('fs');
 const config = require('../config/config.base');
+const readLastLines = require('read-last-lines');
 class Protein {
-    constructor(name, path, startDate) {
+    constructor(name, startDate, finishDate) {
         this.name = name;
-        this.path = path;
+        this.path = config.protein_base_path;
+        this.pds = config.pdbs;
+        this.statusInfoName = config.status;
         this.startDate = startDate;
+        this.finishDate = finishDate;
+        this.lineFileName = config.statistics.line;
+        this.scatterFileName = config.statistics.scatter;
+        this.logName = config.logs;
     }
 
     getPath() {
@@ -13,72 +20,98 @@ class Protein {
 
     getLineData() {
         return new Promise((resolve, reject) => {
-            fs.readFile(`${this.path}/${this.name}/outputFolder/${config.statistics.line}`, function(err, data) {
+            fs.readFile(`${this.path}/${this.name}/outputFolder/${this.lineFileName}`, function(err, data) {
                 if (err) {
-                    reject({
-                        code: 500,
-                        message: err,
-                        data: ''
-                    });
-                    console.error(err);
+                    reject(err);
                 } else {
-                    resolve({
-                        code: 200,
-                        message: '',
-                        data: data.toString()
-                    });
+                    resolve(data.toString());
                 }
             });
         });
     }
     getScatterData() {
         return new Promise((resolve, reject) => {
-            fs.readFile(`${this.path}/${this.name}/outputFolder/${config.statistics.scatter}`, function(err, data) {
+            fs.readFile(`${this.path}/${this.name}/outputFolder/${this.scatterFileName}`, function(err, data) {
                 if (err) {
-                    reject({
-                        code: 500,
-                        message: err,
-                        data: ''
-                    });
-                    console.error(err);
+                    reject(err);
                 } else {
-                    resolve({
-                        code: 200,
-                        message: '',
-                        data: data.toString()
-                    });
+                    resolve(data.toString());
                 }
             });
         });
     }
 
-    getFileSize() {
+    getCurrentStatus() {
+        let status = null;
+        try {
+            status = fs.readFileSync(`${config.protein_base_path}/${this.name}/outputFolder/${this.statusInfoName}`);
+            status = status.toString().split('\n');
+            let currentIterations = +status[1];
+            let totalIterations = +status[2];
+            if (currentIterations === 0) {
+                return 0;
+            } else if (currentIterations < totalIterations && currentIterations > 0) {
+                return 1; // 运行中
+            } else if (currentIterations === totalIterations && currentIterations > 0) {
+                return 3; //已完成
+            } else {
+                return 0; //文件异常
+            }
+        } catch (error) {
+            // console.log(error);
+            return 0;
+        }
 
     }
-    getStatisticsData() {
 
-    }
-    getPredictedData() {
+    getCurrentStatusInfos() {
+        return new Promise((resolve, reject) => {
+            try {
+                const path = `${config.protein_base_path}/${this.name}/outputFolder/${this.statusInfoName}`;
+                let status = fs.readFileSync(path);
+                status = status.toString().split('\n');
+                let startTime = new Date(status[0]);
+                let currentIterations = +status[1];
+                let totalIterations = +status[2] ? +status[2] : 'unknow';
+                let predictFinishTime = null;
+                if (currentIterations === totalIterations) {
+                    if (status[3]) {
+                        predictFinishTime = new Date(status[3]);
+                    } else {
+                        const currentDate = new Date();
+                        fs.appendFileSync(path, '\n' + currentDate);
+                        predictFinishTime = currentDate;
+                    }
 
-    }
-    getCompletedTime() {
-        return new Date();
-    }
-    getName() {
-        return this.name;
-    }
-    getStartDate() {
-        return this.startDate;
-    }
-    getIterationNum() {
-        return +(Math.random().toFixed(4)) * 10000;
+                } else {
+                    predictFinishTime = (new Date().getTime() - startTime.getTime()) * totalIterations / currentIterations + new Date().getTime();
+                }
+                let finishedPercent = 0;
+                if (+totalIterations) {
+                    finishedPercent = currentIterations / totalIterations * 100;
+                }
+                let sendData = {
+                    name: this.name,
+                    startTime: startTime,
+                    predictFinishTime: new Date(predictFinishTime),
+                    iterationNum: currentIterations,
+                    totalIterations: totalIterations,
+                    finishedPercent: finishedPercent,
+                };
+                resolve(sendData);
+            } catch (error) {
+                reject(error);
+            }
+        });
     }
 
-    getFinishedPercent() {
-        /* const currentDate = new Date();
-        let percent = (currentDate.getTime() - this.startDate.getTime()) / (this.getCompletedTime.getTime() - this.startDate.getTime()) * 100;
-        return percent > 99 ? 99 : percent; */
-        return +(Math.random().toFixed(2)) * 100;
+    getLog(lineNumber) {
+        return readLastLines.read(`${config.protein_base_path}/${this.name}/outputFolder/${this.logName}`, lineNumber)
+            .then(lines => {
+                return lines;
+            }).catch(err => {
+                console.error(err);
+            });
     }
 }
 module.exports = Protein;

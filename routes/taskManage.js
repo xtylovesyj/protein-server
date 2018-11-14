@@ -31,22 +31,19 @@ addWebsocketTask('taskManage', ws => {
                 let files = null;
                 try {
                     files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
-                    if (file === CacheData.getCurrentRunProtein().getName()) {
-                        object.status = 1;
-                    }
+                    object.status = new Protein(file).getCurrentStatus();
                 } catch (error) {
                     // console.error(error.stack);
+                    object.status = 2;
                 }
                 if (files) {
                     let proteinNum = 0;
                     files.forEach(name => {
-                        if (name === 'success') {
-                            object['status'] = 3;
-                        }
-                        if (name === 'accept_rmsd_energy.csv' || name === 'average_rmsd_energy.csv') {
+                        const protein = new Protein(name);
+                        if (name === protein.lineFileName || name === protein.scatterFileName) {
                             object.hasStatistics = true;
                         }
-                        if (name === 'combo1.pdb' || name === 'combo2.pdb' || name === 'combo3.pdb' || name === 'combo4.pdb' || name === 'combo5.pdb') {
+                        if (protein.pds.includes(name)) {
                             proteinNum++;
                         }
                     });
@@ -98,22 +95,19 @@ router.get('/readFolder', function(req, res, next) {
                 let files = null;
                 try {
                     files = fs.readdirSync(`${config.protein_base_path}/${file}/outputFolder`);
-                    if (file === CacheData.getCurrentRunProtein().getName()) {
-                        object.status = 1;
-                    }
+                    object.status = new Protein(file).getCurrentStatus();
                 } catch (error) {
                     // console.error(error.stack);
+                    object.status = 2;
                 }
                 if (files) {
                     let proteinNum = 0;
                     files.forEach(name => {
-                        if (name === 'success') {
-                            object['status'] = 3;
-                        }
-                        if (name === 'decoy_Rmsd_Energy') {
+                        const protein = new Protein(name);
+                        if (name === protein.lineFileName || name === protein.scatterFileName) {
                             object.hasStatistics = true;
                         }
-                        if (name === 'combo1.pdb' || name === 'combo2.pdb' || name === 'combo3.pdb' || name === 'combo4.pdb' || name === 'combo5.pdb') {
+                        if (protein.pds.includes(name)) {
                             proteinNum++;
                         }
                     });
@@ -185,6 +179,7 @@ router.post("/createProtein", function(req, res, next) {
         }
         fs.mkdirSync(`${config.protein_base_path}/${proteinFullName}/inputFolder`);
         fs.mkdirSync(`${config.protein_base_path}/${proteinFullName}/outputFolder`);
+        fs.mkdirSync(`${config.protein_base_path}/${proteinFullName}/outputFolder/contact_dis`);
         logger4j.info(`成功创建${proteinFullName}`);
         res.send(proteinFullName);
     });
@@ -218,6 +213,7 @@ router.post("/excuteTasks", function(req, res, next) {
             logger4j.info(result);
             if (exp.test(result)) {
                 successProteins.push(proteins[i]);
+                CacheData.clearProtein(protein);
             }
         }
     })();
