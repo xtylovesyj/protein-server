@@ -9,15 +9,13 @@ var eventEmitter = new events.EventEmitter();
 global.eventEmitter = eventEmitter;
 
 addWebsocketTask('home', ws => {
-    global.eventEmitter.on('errorTask', (err) => {
+    global.eventEmitter.on('errorTask', (data) => {
         if (ws.readyState === 1) {
-            let errorDetails = fs.readFileSync(global.rootPath + '/log/task-error.log');
-            let errorDetailArray = errorDetails.toString().split('\n');
-            let proteinName = errorDetailArray[0];
+            let errorDetails = fs.readFileSync(global.rootPath + `/log/${data}.log`);
             ws.send(JSON.stringify({
                 command: 'errorTask',
                 data: {
-                    proteinName: proteinName,
+                    proteinName: data,
                     error: errorDetails.toString()
                 }
             }));

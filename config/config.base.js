@@ -1,6 +1,6 @@
 const env = {
-    protein_base_path: '/Users/yaojun/robocode',
-    // protein_base_path: '/root/casp/temp_show',
+    // protein_base_path: '/Users/yaojun/robocode',
+    protein_base_path: '/root/casp/temp_show',
     users: [{
         name: 'yao',
         pass: 'yaojun'
@@ -27,7 +27,7 @@ const env = {
     ],
     emails: ['965072376@qq.com'],
     websocket_port: 9090,
-    port: 3000,
+    port: 80,
 };
 
 module.exports = env;

@@ -197,6 +197,28 @@ router.post("/childFolder", function(req, res, next) {
     res.send(fileArray);
 });
 
+router.get('/getExcuteErrorLog', (req, res, next) => {
+    const fileName = req.query.folderName;
+    fs.readFile(global.rootPath + `/log/${fileName}.log`, (err, data) => {
+        if (err) {
+            res.send({
+                code: 500,
+                message: err.stack,
+                data: ''
+            });
+            return;
+        }
+        res.send({
+            code: 200,
+            message: '',
+            data: {
+                name: fileName,
+                detail: data.toString()
+            }
+        });
+    });
+});
+
 router.post("/excuteTasks", function(req, res, next) {
     const proteins = req.body.proteins;
     let successProteins = [];
@@ -209,17 +231,15 @@ router.post("/excuteTasks", function(req, res, next) {
             try {
                 result = await invokeShell(`${global.rootPath}/protein.sh`, ['-P', proteins[i], '-N', config.protein_base_path]);
             } catch (error) {
-                error = proteins[i] + '\n' + error;
-                fs.writeFile(global.rootPath + '/log/task-error.log', error, err => {
+                fs.writeFile(global.rootPath + `/log/${proteins[i]}.log`, error, err => {
                     if (err) {
                         console.error(err);
                         return;
                     }
-                    console.log('writed successfully!');
-                    global.eventEmitter.emit('errorTask', '开始');
+                    global.eventEmitter.emit('errorTask', proteins[i]);
                 });
                 console.error(error);
-                result = error;
+                logger4j.error(error);
             }
             logger4j.info(result);
             if (exp.test(result)) {

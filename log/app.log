@@ -862,3 +862,845 @@ mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
 /Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
 mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
 
+[2018-11-15T21:43:25.197] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:43:25.199] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:43:39.295] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:43:39.297] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:44:48.858] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:44:48.860] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:46:20.783] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:46:20.784] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:46:33.574] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:46:33.575] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:54:25.720] [INFO] app - start to monitor sending email
+[2018-11-15T21:54:25.722] [INFO] app - app start
+[2018-11-15T21:54:25.722] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T21:55:45.658] [INFO] app - start to monitor sending email
+[2018-11-15T21:55:45.660] [INFO] app - app start
+[2018-11-15T21:55:45.661] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T21:57:30.054] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:57:30.055] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:58:05.931] [INFO] app - start to monitor sending email
+[2018-11-15T21:58:05.933] [INFO] app - app start
+[2018-11-15T21:58:05.933] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T21:59:09.561] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T21:59:09.563] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:08:53.618] [INFO] app - start to monitor sending email
+[2018-11-15T22:08:53.620] [INFO] app - app start
+[2018-11-15T22:08:53.620] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T22:10:22.945] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:10:22.947] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:12:51.044] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:12:51.045] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:13:45.089] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:13:45.090] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:15:26.522] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:15:26.524] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:15:56.606] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:15:56.608] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:16:31.975] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:16:31.976] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:19:57.776] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:19:57.777] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:20:34.504] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:20:34.505] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:56:46.898] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T22:56:46.900] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:03:29.863] [INFO] app - start to monitor sending email
+[2018-11-15T23:03:29.865] [INFO] app - app start
+[2018-11-15T23:03:29.865] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:03:44.274] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:03:44.275] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:06:14.359] [INFO] app - start to monitor sending email
+[2018-11-15T23:06:14.361] [INFO] app - app start
+[2018-11-15T23:06:14.361] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:06:43.291] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:06:43.293] [INFO] 任务管理 - 1B4BA_1537110442879
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:09:43.551] [INFO] app - start to monitor sending email
+[2018-11-15T23:09:43.553] [INFO] app - app start
+[2018-11-15T23:09:43.553] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:10:56.114] [INFO] app - start to monitor sending email
+[2018-11-15T23:10:56.116] [INFO] app - app start
+[2018-11-15T23:10:56.116] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:18:43.533] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:18:43.534] [INFO] 任务管理 - sssssssss_1541862188305
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:21:58.115] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:21:58.117] [INFO] 任务管理 - sssssssss_1541862188305
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:22:12.075] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:22:12.076] [INFO] 任务管理 - 我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:22:30.743] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:22:30.745] [INFO] 任务管理 - fdsfadsfads_1542115545745
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:23:45.977] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:23:45.979] [INFO] 任务管理 - 312321_1541862138703
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:29:29.545] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:29:29.548] [INFO] 任务管理 - .DS_Store
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:31:55.524] [INFO] app - start to monitor sending email
+[2018-11-15T23:31:55.526] [INFO] app - app start
+[2018-11-15T23:31:55.526] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:32:18.737] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:32:18.738] [INFO] 任务管理 - 1111111_1541862179659
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:33:30.165] [INFO] app - start to monitor sending email
+[2018-11-15T23:33:30.167] [INFO] app - app start
+[2018-11-15T23:33:30.167] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:33:59.644] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:33:59.645] [INFO] 任务管理 - .DS_Store
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:34:17.327] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:34:17.330] [INFO] 任务管理 - 1111111_1541862179659
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:36:24.141] [INFO] app - start to monitor sending email
+[2018-11-15T23:36:24.143] [INFO] app - app start
+[2018-11-15T23:36:24.143] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:37:17.747] [INFO] app - start to monitor sending email
+[2018-11-15T23:37:17.749] [INFO] app - app start
+[2018-11-15T23:37:17.749] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:37:51.051] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:37:51.053] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:38:05.203] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:38:05.204] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 22: cd: /Users/yaojun/robocode/.DS_Store/outputFolder: Not a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: log: Is a directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:38:18.980] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:38:18.983] [INFO] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:46:05.012] [INFO] app - start to monitor sending email
+[2018-11-15T23:46:05.014] [INFO] app - app start
+[2018-11-15T23:46:05.014] [INFO] app - root path /Users/yaojun/gitRepository/protein-server
+[2018-11-15T23:48:32.118] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:48:32.119] [ERROR] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory
+
+[2018-11-15T23:48:32.119] [INFO] 任务管理 - 
+[2018-11-15T23:48:42.604] [ERROR] 蛋白质工程 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:48:42.605] [ERROR] 任务管理 - /Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: pul_center.pdb: No such file or directory
+
+[2018-11-15T23:48:42.605] [INFO] 任务管理 - 
