@@ -1,0 +1,12 @@
+我是你大哥_1542115763081
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 24: /Users/yaojun/rosetta_bin_linux_2016.32.58837_bundle/main/source/bin/AbinitioRelax.linuxgccrelease: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 25: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo1_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 27: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo2_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 29: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo3_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 31: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo4_pul.pdb: No such file or directory
+/Users/yaojun/gitRepository/protein-server/protein.sh: line 33: /Users/yaojun/pulchra/pulchra.pl: No such file or directory
+mv: rename pul_center.pdb to combo5_pul.pdb: No such file or directory

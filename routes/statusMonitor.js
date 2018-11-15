@@ -7,6 +7,7 @@ const readLastLines = require('read-last-lines');
 const systemBaseInfo = require('../services/systemBaseInfo');
 const addWebsocketTask = require('../services/websocket');
 const Protein = require('../object/protein');
+
 addWebsocketTask('statusMonitor', ws => {
     systemBaseInfo.getDisk().then(data => {
         if (ws.readyState === 1) {

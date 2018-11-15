@@ -13,11 +13,13 @@ var protein3DRouter = require('./routes/protein3D');
 var statusMonitorRouter = require('./routes/statusMonitor');
 var loginRouter = require('./routes/login');
 var statisticsRouter = require('./routes/statistics');
+let homeRouter = require('./routes/home');
 var session = require('express-session');
 require('./services/websocket');
 const CacheData = require('./object/cacheData');
 const config = require('./config/config.base');
 const Protein = require('./object/protein');
+
 
 var app = express();
 
@@ -82,6 +84,7 @@ app.use('/protein3D', protein3DRouter);
 app.use('/statusMonitor', statusMonitorRouter);
 app.use('/login', loginRouter);
 app.use('/statistics', statisticsRouter);
+app.use('/home', homeRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

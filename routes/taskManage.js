@@ -12,6 +12,7 @@ const Protein = require('../object/protein');
 const CacheData = require('../object/cacheData');
 const logger4j = log4js.getLogger('任务管理');
 const addWebsocketTask = require('../services/websocket');
+
 addWebsocketTask('taskManage', ws => {
     let fileArray = [];
     fs.readdir(config.protein_base_path, function(err, files) {
@@ -208,6 +209,16 @@ router.post("/excuteTasks", function(req, res, next) {
             try {
                 result = await invokeShell(`${global.rootPath}/protein.sh`, ['-P', proteins[i], '-N', config.protein_base_path]);
             } catch (error) {
+                error = proteins[i] + '\n' + error;
+                fs.writeFile(global.rootPath + '/log/task-error.log', error, err => {
+                    if (err) {
+                        console.error(err);
+                        return;
+                    }
+                    console.log('writed successfully!');
+                    global.eventEmitter.emit('errorTask', '开始');
+                });
+                console.error(error);
                 result = error;
             }
             logger4j.info(result);

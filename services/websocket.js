@@ -6,6 +6,7 @@ const wss = new WebSocket.Server({ port: config.websocket_port });
 const intervalMap = new Map();
 const subjects = new Map();
 const subjectNames = new Map();
+const recycles = new Map();
 logger4j.info('init websocket');
 wss.on('connection', function connection(ws) {
     ws.on('message', function incoming(message) {
@@ -39,7 +40,7 @@ wss.on('connection', function connection(ws) {
             subjectNames.delete(ws);
         } else if (ws.readyState === 1) {
             subjects.forEach((callbacks, key) => {
-                if (key === subjectNames.get(ws)) {
+                if (recycles.get(key) && key === subjectNames.get(ws)) {
                     callbacks.forEach(callback => {
                         callback(ws, wss);
                     });
@@ -54,11 +55,15 @@ wss.on('close', function close() {
     console.log('disconnected');
 });
 
-module.exports = function(name, callback) {
+module.exports = function(name, callback, isRecycle) {
     if (subjects.has(name)) {
         const callbacks = subjects.get(name);
         callbacks.add(callback);
     } else {
         subjects.set(name, new Set().add(callback));
+        if (isRecycle === undefined) {
+            isRecycle = true;
+        }
+        recycles.set(name, isRecycle);
     }
 };
